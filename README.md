@@ -105,9 +105,9 @@ to make the web faster, safer, and more open.
 
 ## Contract on the Rinkeby Network
 
-**Contract address:**  0x9Cfa4D35ab1e434CFa43395Ad9d4FDD586AB40f3   
-**Transaction ID:**    0xd6903197443d2798e34d23c45b648c7676fd62f40f35babbe9dd2403e9d138d0   
-**Etherscan:**   https://rinkeby.etherscan.io/address/0x9Cfa4D35ab1e434CFa43395Ad9d4FDD586AB40f3   
+**Contract address:**  0x2f057A729aeE964B426C57fF97B0Bc8bF2E70785   
+**Transaction ID:**    0xb854fe5ceebfbc1f20cbcf1ea10a19ced42812ac8a2c2e9eb46003049fc606ee   
+**Etherscan:**   https://rinkeby.etherscan.io/address/0x2f057A729aeE964B426C57fF97B0Bc8bF2E70785   
 
 
 ## Requirement 1: Project write-up - UML
